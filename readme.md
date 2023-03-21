@@ -1,4 +1,4 @@
-<font size="1">River Cleaning Boat Project</font>
+<font size="5">River Cleaning Boat Project</font>
 1) Code related:
  https://colab.research.google.com/drive/1JltYr3MyciqpYXppqFTns7NMpTYRZAq5?usp=sharing
 
